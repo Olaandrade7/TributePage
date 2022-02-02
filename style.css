@@ -4,7 +4,7 @@ body {
   }
 
   * {
-    margin: 10px;
+    margin: 9px;
     text-align:center;
 
   }
@@ -17,7 +17,7 @@ body {
     display:block;
     margin:auto;
     max-width: 100%;
-    max-height:  80%;
+    max-height:  81%;
   }
   #img-div{
        margin:10px;
