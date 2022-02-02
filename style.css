@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+    margin:10px;
+  }
+
+  * {
+    margin: 10px;
+    text-align:center;
+
+  }
+
+  #quote {
+      font-style: italic;
+      text-align:justify;
+  }
+  img {
+    display:block;
+    margin:auto;
+    max-width: 100%;
+    max-height:  80%;
+  }
+  #img-div{
+       margin:10px;
+       background-color:#fff;
+       padding:15px;
+       border-radius: 20px;
+  }
